@@ -1,0 +1,1 @@
+var t=[{path:``,loadComponent:()=>import(`./chunk-D6RFOMg3.js`).then(o=>o.InicioPage)}];export{t as INICIO_RUTAS};
