@@ -1,0 +1,1 @@
+var t=[{path:``,loadComponent:()=>import(`./chunk-BSshxHdm.js`).then(o=>o.AvisosPage)}];export{t as AVISOS_RUTAS};
