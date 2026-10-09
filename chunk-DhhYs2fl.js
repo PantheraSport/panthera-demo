@@ -1,0 +1,1 @@
+var t=[{path:``,loadComponent:()=>import(`./chunk-xJg-Pk63.js`).then(o=>o.ClasesPage)},{path:`clase/:id`,loadComponent:()=>import(`./chunk-DwfVEBgy.js`).then(o=>o.FichaClasePage)}];export{t as CLASES_RUTAS};
