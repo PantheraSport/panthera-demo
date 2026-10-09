@@ -1,0 +1,1 @@
+import{a as v}from"./chunk-W-3lWRFQ.js";function e(i,t){return v(this,null,function*(){let{AnadirRutinaComponent:o}=yield import(`./chunk-DNF0I3aq.js`),a=yield i.create({component:o,componentProps:{datos:t},breakpoints:[0,.94],initialBreakpoint:.94,handle:!0,expandToScroll:!1});yield a.present();let{data:r}=yield a.onWillDismiss();return r??null})}export{e as t};
