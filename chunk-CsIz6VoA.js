@@ -1,1 +1,0 @@
-var t=[{path:``,loadComponent:()=>import(`./chunk-Dty0XULf.js`).then(o=>o.InicioPage)}];export{t as INICIO_RUTAS};
