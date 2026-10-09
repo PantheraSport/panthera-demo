@@ -1,1 +1,0 @@
-var t=[{path:``,loadComponent:()=>import(`./chunk-G9U4gG9Z.js`).then(o=>o.AvisosPage)}];export{t as AVISOS_RUTAS};
