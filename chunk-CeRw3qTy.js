@@ -1,0 +1,1 @@
+var t=[{path:``,loadComponent:()=>import(`./chunk-DLnhQGXM.js`).then(o=>o.AccesoPage)},{path:`historial`,loadComponent:()=>import(`./chunk-DQQAJKOi.js`).then(o=>o.HistorialPage)}];export{t as ACCESO_RUTAS};
